@@ -34,9 +34,7 @@ Este proyecto se proporciona "tal cual", sin garantía de ningún tipo, expresa 
 Para cualquier pregunta, comentario o preocupación relacionada con este proyecto, puedes contactarnos a través de correo electrónico.
 
 gerardpc2004@gmail.com
-
-unai pon aqui tu mail
-
+unaianfrun@gmail.com
 
 ## Authors
 
