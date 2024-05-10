@@ -19,7 +19,7 @@ Es importante destacar que "The Ransomware Project" es solo para fines educativo
 ## Instalación y Uso
 -Clona este repositorio en tu sistema:
 
-[git clone https://github.com/ainssssss/Atenea-4096](https://github.com/ainssssss/Atenea-4096)
+git clone [https://github.com/ainssssss/Atenea-4096](https://github.com/ainssssss/Atenea-4096)
 
 -Ejecuta el ransomware en un sistema operativo Windows(VM).
 Sigue las instrucciones en pantalla para simular el ataque de ransomware.
